@@ -56,7 +56,7 @@ education:
   - area: MSc Computer Science and Technology
     institution: University of Science and Technology Beijing, USTB
     date_start: 2023-09-01
-    date_end: Now
+    date_end: 2026-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -66,7 +66,7 @@ education:
   - area: BSc Computer Science and Technology
     institution: University of Science and Technology Beijing, USTB
     date_start: 2019-09-01
-    date_end: 2023-09-01
+    date_end: 2023-07-01
     summary: |
       GPA: 3.4/4.0
       
