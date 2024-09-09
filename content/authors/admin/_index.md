@@ -3,15 +3,15 @@
 title: 马雨琪
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Ma Yuqi'
 
 # Full name (for SEO)
 first_name: Yuqi
 last_name: Ma
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master Degree Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: USTB, PRIR Lab
+    url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyNjY3NzE3Ng==#wechat_redirect
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
