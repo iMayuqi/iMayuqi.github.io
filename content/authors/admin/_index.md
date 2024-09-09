@@ -68,12 +68,13 @@ education:
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 88.7/100
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Web应用开发实践 (Web application development practices)(99)
+      - C++ 程序设计实践 (C++ program design)(97)
+      - 工科数学分析 (Engineering mathematical analysis)(91)
+      - 操作系统 (Operating system)(85)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
