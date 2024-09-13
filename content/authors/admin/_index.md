@@ -3,7 +3,7 @@
 title: 马雨琪
 
 # Name pronunciation (optional)
-name_pronunciation: 'Ma Yuqi'
+name_pronunciation: 'Ma Yu qi'
 
 # Full name (for SEO)
 first_name: Yuqi
@@ -106,13 +106,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Java
         description: ''
         percent: 40
         icon: circle-stack
@@ -148,7 +148,7 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-8-25'
+    date: '2024-08-25'
     awarder: Coursera
     icon: coursera
     summary: |
