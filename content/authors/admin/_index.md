@@ -77,7 +77,7 @@ education:
       - 操作系统 (Operating system)(85)
 work:
   - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+    company_name: SASU
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -120,26 +120,26 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travel
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dance
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      # - name: Photography
+      #   description: ''
+      #   percent: 80
+      #   icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -148,7 +148,7 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2024-8-25'
     awarder: Coursera
     icon: coursera
     summary: |
@@ -175,4 +175,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+
+Yuqi Ma is a graduate student in the Pattern Recognition and Artificial Intelligence Laboratory of the University of Science and Technology Beijing. The laboratory is headed by Xucheng Yin, who is a recipient of the National Outstanding Youth Science Fund. Her research focuses on computer vision, specifically fine-grained open vocabulary object detection.

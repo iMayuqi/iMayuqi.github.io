@@ -10,7 +10,7 @@ baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
-############################
+##########################
 
 defaultContentLanguage: en
 hasCJKLanguage: false
