@@ -149,14 +149,14 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-08-15'
     awarder: Yuqi Ma
-    icon: award
+    icon: "award"
     summary: Top 5% in my major.
       
   - title: Third prize, CAAI-BDSC2024 Social Computing Innovation Competition
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-08-10'
-    awarder: edX
-    icon: edx
+    awarder: Yuqi Ma
+    icon: "persons"
     summary: Won the third prize of the 4th Social Computing Innovation Competition in the CAAI National Conference On Big Data & Social Computing. It is sponsored by the Chinese Association for Artificial Intelligence (CAAI) and co-sponsored by the Special Committee on Social Computing and Social Intelligence and Harbin Engineering University.
       
   - title: 'Object-Oriented Programming in R'
