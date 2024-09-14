@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 马雨琪
+title: Yuqi Ma 马雨琪
 
 # Name pronunciation (optional)
 name_pronunciation: 'Ma Yu qi'
