@@ -1,6 +1,6 @@
 ---
 title: Pandas
-date: 2023-10-26
+date: 2022-10-20
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Hugo

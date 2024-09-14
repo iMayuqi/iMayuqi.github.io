@@ -168,7 +168,7 @@ awards:
     date: '2022-07-21'
     awarder: Yuqi Ma etc.
     # icon: datacamp
-    summary: Related to the paper <a href="https://www.mdpi.com/2079-9292/11/14/2266"> Design and implementation of an intelligent assistive cane for visually impaired people based on an edge-cloud collaboration scheme.
+    summary: Related to the paper <a href="https://www.mdpi.com/2079-9292/11/14/2266"> Design and implementation of an intelligent assistive cane for visually impaired people based on an edge-cloud collaboration scheme.</a>
 ---
 
 ## About Me
