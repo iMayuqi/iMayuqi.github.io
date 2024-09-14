@@ -177,4 +177,4 @@ awards:
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-Yuqi Ma is a graduate student in the Pattern Recognition and Artificial Intelligence Laboratory of the University of Science and Technology Beijing. The laboratory is headed by Xucheng Yin, who is a recipient of the National Outstanding Youth Science Fund. Her research focuses on computer vision, specifically fine-grained open vocabulary object detection.
+Yuqi Ma is a postgraduate student in the Pattern Recognition and Artificial Intelligence Laboratory of the University of Science and Technology Beijing. The laboratory is headed by Xucheng Yin, who is a recipient of the National Outstanding Youth Science Fund. Her research focuses on computer vision, specifically fine-grained open vocabulary object detection.
