@@ -2,7 +2,7 @@
 title: Design and implementation of an intelligent assistive cane for visually impaired
   people based on an edge-cloud collaboration scheme
 authors:
-- __Yuqi Ma__
+- admin
 - Yanqing Shi
 - Moyu Zhang
 - Wei Li
