@@ -149,7 +149,7 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-08-15'
     awarder: Yuqi Ma
-    icon: "award"
+    icon: "assets/media/icons/award"
     summary: Top 5% in my major.
       
   - title: Third prize, CAAI-BDSC2024 Social Computing Innovation Competition
