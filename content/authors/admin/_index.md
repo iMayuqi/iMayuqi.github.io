@@ -163,7 +163,6 @@ awards:
     summary: The work "The effect of school stage on Chinese adolescents' self-construal-Based on an automated measurement method", based on intelligent visual technology, realizes the automatic recognition and calculation process of symbolic self-expansion paradigm images, and improves the efficiency of cross-regional and large-scale measurement of implicit independent/interdependent self-constructs. By measuring tens of thousands of Chinese teenagers, the work finds differences in the development of self-constructs of teenagers in different regions at different learning stages. The work also explores the potential influencing variables of such developmental differences.
     The work won the third prize of the 4th Social Computing Innovation Competition in the CAAI National Conference On Big Data & Social Computing. It is sponsored by the Chinese Association for Artificial Intelligence (CAAI) and co-sponsored by the Special Committee on Social Computing and Social Intelligence and Harbin Engineering University.
     
-      
   - title: National second prize，China University Student Computer Design Competition
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
