@@ -57,11 +57,12 @@ education:
     institution: University of Science and Technology Beijing, USTB
     date_start: 2023-09-01
     date_end: 2026-07-01
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: My main research area is computer vision, specifically fine-grained open vocabulary object detection. Currently, a TMM journal paper is being submitted for publication. Supervised by Associate professor Chao Zhu. 
+
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
 
   - area: BSc Computer Science and Technology
     institution: University of Science and Technology Beijing, USTB
@@ -69,12 +70,14 @@ education:
     date_end: 2023-07-01
     summary: |
       GPA: 88.7/100
-      
+
       Courses included:
       - Web应用开发实践 (Web application development practices)(99)
       - C++ 程序设计实践 (C++ program design)(97)
       - 工科数学分析 (Engineering mathematical analysis)(91)
       - 操作系统 (Operating system)(85)
+
+      Publish a paper in the journal _Electronics_
 work:
   - position: Robotics course editor
     company_name: SASU
@@ -149,24 +152,25 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-08-15'
     awarder: Yuqi Ma
-    icon: "assets/media/icons/award"
+    # icon: "assets/media/icons/award"
     summary: Top 5% in my major.
       
   - title: Third prize, CAAI-BDSC2024 Social Computing Innovation Competition
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-08-10'
-    awarder: Yuqi Ma
-    icon: "persons"
-    summary: Won the third prize of the 4th Social Computing Innovation Competition in the CAAI National Conference On Big Data & Social Computing. It is sponsored by the Chinese Association for Artificial Intelligence (CAAI) and co-sponsored by the Special Committee on Social Computing and Social Intelligence and Harbin Engineering University.
+    awarder: Yuqi Ma etc.
+    # icon: "persons"
+    summary: The work "The effect of school stage on Chinese adolescents' self-construal-Based on an automated measurement method", based on intelligent visual technology, realizes the automatic recognition and calculation process of symbolic self-expansion paradigm images, and improves the efficiency of cross-regional and large-scale measurement of implicit independent/interdependent self-constructs. By measuring tens of thousands of Chinese teenagers, the work finds differences in the development of self-constructs of teenagers in different regions at different learning stages. The work also explores the potential influencing variables of such developmental differences.
+    The work won the third prize of the 4th Social Computing Innovation Competition in the CAAI National Conference On Big Data & Social Computing. It is sponsored by the Chinese Association for Artificial Intelligence (CAAI) and co-sponsored by the Special Committee on Social Computing and Social Intelligence and Harbin Engineering University.
+    
       
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: National second prize，China University Student Computer Design Competition
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # certificate_url: https://www.datacamp.com
+    date: '2022-07-21'
+    awarder: Yuqi Ma etc.
+    # icon: datacamp
+    summary: Related to the paper [Design and implementation of an intelligent assistive cane for visually impaired people based on an edge-cloud collaboration scheme](https://www.mdpi.com/2079-9292/11/14/2266)
 ---
 
 ## About Me
