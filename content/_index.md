@@ -75,7 +75,7 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
-    - block: collection
+  - block: collection
     id: projects
     content:
       title: Project Experience
