@@ -75,16 +75,16 @@ sections:
     design:
       view: article-grid
       columns: 1
-  # - block: collection
-  #   id: projects
-  #   content:
-  #     title: Project Experience
-  #     filters:
-  #       folders:
-  #         - projects
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: projects
+    content:
+      title: Project Experience
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 1
   # - block: collection
   #   id: news
   #   content:
