@@ -71,7 +71,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - event2
     design:
       view: article-grid
       columns: 1
