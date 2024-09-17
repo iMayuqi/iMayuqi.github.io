@@ -1,7 +1,7 @@
 ---
 title: Fine-grained ship detection
 
-event: Fine-grained ship detection
+event: Hugo Blox Builder Conference
 # event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
