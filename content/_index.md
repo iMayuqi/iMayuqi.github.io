@@ -74,7 +74,8 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      fill_image: false
+      columns: 2
   - block: collection
     id: projects
     content:
