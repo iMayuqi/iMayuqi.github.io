@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Design of mobile robots for visually impaired people based on semantic information
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Student Research Training Program (SRTP)
+# event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
 # address:
@@ -12,17 +12,20 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: By using semantic correlation between objects to guide the robot to help visually impaired people to find items
+
+abstract: 
+In order to address the challenge faced by visually impaired people in finding objects, we have designed a guide robot for the visually impaired that is driven by target semantic information. First, we utilized Mask R-CNN and skip-gram to obtain a semantic correlation model, which is used to analyze the association of common indoor objects. Then, with the aforementioned model and the ROS framework, we designed a strategy that continuously seeks objects with stronger semantic correlations, enabling the robot to efficiently locate the given target. Finally, by integrating the classic ORB-SLAM2 system method, we helped the robot construct a highly usable environmental map and find a navigable path while moving. Simulation results have verified that the proposed strategy can effectively assist the robot in navigating to the target without human intervention. Moreover, this strategy has been deployed on a turtlebot3 robot.
+Responsible for ROS robot object detection and motion decision deployment, program optimization, and communication between server and robot under Ubuntu system.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2020-09-01T13:00:00Z'
+date_end: '2021-08-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-08-01T00:00:00Z'
 
 authors:
   - admin
@@ -59,7 +62,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - ["internal-project"]
+  - []
 ---
 <!-- 
 {{% callout note %}}

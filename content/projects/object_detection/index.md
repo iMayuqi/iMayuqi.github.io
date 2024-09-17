@@ -1,7 +1,7 @@
 ---
 title: Fine-grained ship detection
 
-event: Hugo Blox Builder Conference
+event: horizontal scientific research project
 # event_url: https://example.org
 
 # location: Hugo Blox Builder HQ
@@ -12,7 +12,7 @@ event: Hugo Blox Builder Conference
 #   postcode: '94305'
 #   country: United States
 
-summary: 
+summary: Improve the detection accuracy of different types of ships of the same class.
 abstract: This project applies mainstream object detection to detect ships of 7 primary categories and 19 secondary categories, so that the specific types of ships can be detected for practical applications.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,10 +40,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com'
+# url_pdf: ''
+# url_slides: 'https://slideshare.net'
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,7 +58,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - ["internal-project"]
+  - []
 ---
 
 <!-- {{% callout note %}}
