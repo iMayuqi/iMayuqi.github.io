@@ -65,26 +65,26 @@ sections:
     design:
       view: citation
       columns: 2
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
   - block: collection
-    id: projects
+    id: talks
     content:
-      title: Project Experience
+      title: Recent & Upcoming Talks
       filters:
         folders:
-          - projects
+          - event
     design:
       view: article-grid
       columns: 1
+  # - block: collection
+  #   id: projects
+  #   content:
+  #     title: Project Experience
+  #     filters:
+  #       folders:
+  #         - projects
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   # - block: collection
   #   id: news
   #   content:
