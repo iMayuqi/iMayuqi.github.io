@@ -50,7 +50,7 @@ interests:
   - Computer Vision
   - Open Vocabulary Object Detection
   - Fine-Grained Object Detection
-  - Artificial Intelligence
+  - AI + X (AI + Music, AI + Psychology, etc)
 
 education:
   - area: MSc Computer Science and Technology
